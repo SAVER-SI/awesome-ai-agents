@@ -199,6 +199,7 @@ Keeping agents safe: prompt-injection defense, AI firewalls, model scanning, and
 - [Robust Intelligence](https://robustintelligence.com) — AI firewall and automated red teaming. 🔀 **Acquired by Cisco.**
 - [Protect AI](https://protectai.com) — Model scanning and ML supply-chain security. 🔀 **Acquired by Palo Alto Networks.**
 - [NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `OSS` — Programmable, open-source guardrails toolkit (Colang).
+- [SAVER Verifier](https://saververify.com) — Source-backed factual claim verification for autonomous agents, designed as a pre-action evidence signal with x402 pay-per-call access.
 
 ## Agent Sandboxes & Tool Platforms
 

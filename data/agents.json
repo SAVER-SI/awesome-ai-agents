@@ -1377,5 +1377,17 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "saver-verifier",
+    "name": "SAVER Verifier",
+    "url": "https://saververify.com",
+    "github": "SAVER-SI/saver-verifier",
+    "license": null,
+    "status": "active",
+    "categories": [
+      "security"
+    ],
+    "description": "Source-backed factual claim verification for autonomous agents, designed as a pre-action evidence signal with x402 pay-per-call access."
   }
 ]
