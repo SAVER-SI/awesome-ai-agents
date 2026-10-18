@@ -1388,6 +1388,6 @@
     "categories": [
       "security"
     ],
-    "description": "Source-backed factual claim verification for autonomous agents, designed as a pre-action evidence signal with x402 pay-per-call access."
+    "description": "Factual claim verification via POST /v2/verify, with linked evidence and cited sources; 0.20 USDC on Base using x402 v2."
   }
 ]
